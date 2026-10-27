@@ -7,3 +7,4 @@ Practicar Git i GitHub creant un README ben estructurat i aplicant bones pràcti
 ## tecnologies
 Aquesta línea s'ha afegit des del meu ordinador.
 Aquesta línia s'ha afegit des de GitHub.
+## Clonació del projecte
